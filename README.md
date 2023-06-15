@@ -1,2 +1,1 @@
-# OBISIP-Task-1-calculator
-Oasis Info bytes Task 1. Calculator
+# LGM-Task-4-calculator
